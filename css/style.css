@@ -297,6 +297,6 @@ div.bottom
     }
     to
     {
-        transform: rotateY(360deg) /*rotateX(360deg);*/
+        transform: rotateY(360deg) rotateX(360deg);
     }
 }
